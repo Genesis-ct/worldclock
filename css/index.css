@@ -12,7 +12,7 @@ body{
     padding: 50px;
     margin: 60px auto;
     box-shadow:5px 5px 5px grey;
-    box-radius:10px;
+    border-radius:10px;
 }
 select{
     display: block;
